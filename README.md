@@ -11,7 +11,7 @@ This project is an end-to-end Business Intelligence solution built using Power B
 
 ## Report Pages & Insights
 
-## Page 1 — Executive Overview
+### Page 1 — Executive Overview
 Purpose: High-level business performance monitoring
 <img width="775" height="438" alt="Page-1" src="https://github.com/user-attachments/assets/697cd3ff-6894-4dc8-ae85-99e134483858" />
 
@@ -27,7 +27,7 @@ Purpose: High-level business performance monitoring
 2. Clear comparison of regional and product profitability.
 
 
-## Page 2 — Sales & Product Performance
+### Page 2 — Sales & Product Performance
 Purpose: Product-level revenue and margin analysis
 <img width="771" height="434" alt="Page-2" src="https://github.com/user-attachments/assets/4c0b5963-edb2-44fc-9eda-a1c56ebd9fe3" />
 
@@ -42,7 +42,7 @@ Purpose: Product-level revenue and margin analysis
 2. Supported pricing and product optimization strategies
 
 
-## Page 3 — Retailer Analytics
+### Page 3 — Retailer Analytics
 Purpose: Retailer behavior and value analysis
 <img width="771" height="437" alt="Page-3" src="https://github.com/user-attachments/assets/7718fc02-67a2-4e03-b5fe-913fc642b3ba" />
 
