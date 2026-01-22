@@ -9,6 +9,7 @@ Business Objectives
 5. Enable data-driven strategic and operational decisions
 
 Report Pages & Insights
+
 Page 1 — Executive Overview
 Purpose: High-level business performance monitoring
 <img width="775" height="438" alt="Page-1" src="https://github.com/user-attachments/assets/697cd3ff-6894-4dc8-ae85-99e134483858" />
