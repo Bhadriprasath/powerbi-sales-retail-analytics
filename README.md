@@ -58,12 +58,12 @@ Outcome:
 
 Tools & Technologies
 
-Power BI
-DAX
-Power Query
-SQL
-Microsoft Excel
-Data Modeling (Star Schema)
+Power BI,
+DAX,
+Power Query,
+SQL,
+Microsoft Excel,
+Data Modeling (Star Schema),
 Time Intelligence Functions.
 
 My Role & Responsibilities
