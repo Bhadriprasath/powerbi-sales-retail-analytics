@@ -59,13 +59,13 @@ Purpose: Retailer behavior and value analysis
 
 ## Tools & Technologies
 
-Power BI,
-DAX,
-Power Query,
-SQL,
-Microsoft Excel,
-Data Modeling (Star Schema),
-Time Intelligence Functions.
+- Power BI,
+- DAX,
+- Power Query,
+- SQL,
+- Microsoft Excel,
+- Data Modeling (Star Schema),
+- Time Intelligence Functions.
 
 ## My Role & Responsibilities
 1. Designed and implemented the data model
