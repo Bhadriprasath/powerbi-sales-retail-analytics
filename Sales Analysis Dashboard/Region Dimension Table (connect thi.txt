@@ -1,0 +1,26 @@
+Region Dimension Table: (connect this table to retailer dimension table)
+
+| Region_ID | Region | Sub_Region  | State          | City (Representative) |
+| --------- | ------ | ----------- | -------------- | --------------------- |
+| RG01      | South  | South TN    | Tamil Nadu     | Madurai               |
+| RG02      | South  | North TN    | Tamil Nadu     | Chennai               |
+| RG03      | South  | West TN     | Tamil Nadu     | Coimbatore            |
+| RG04      | South  | East TN     | Tamil Nadu     | Thanjavur             |
+| RG05      | South  | Central TN  | Tamil Nadu     | Tiruchirappalli       |
+| RG06      | South  | Coastal AP  | Andhra Pradesh | Visakhapatnam         |
+| RG07      | South  | Rayalaseema | Andhra Pradesh | Kurnool               |
+| RG08      | South  | West AP     | Andhra Pradesh | Nellore               |
+| RG09      | South  | South KA    | Karnataka      | Mysuru                |
+| RG10      | South  | North KA    | Karnataka      | Hubballi              |
+| RG11      | South  | East KA     | Karnataka      | Davanagere            |
+| RG12      | West   | West MH     | Maharashtra    | Mumbai                |
+| RG13      | West   | Central MH  | Maharashtra    | Nagpur                |
+| RG14      | South  | Central TS  | Telangana      | Hyderabad             |
+| RG15      | South  | South TS    | Telangana      | Nalgonda              |
+| RG16      | South  | Central KL  | Kerala         | Kochi                 |
+| RG17      | West   | North GJ    | Gujarat        | Ahmedabad             |
+| RG18      | North  | West RJ     | Rajasthan      | Jodhpur               |
+| RG19      | North  | East RJ     | Rajasthan      | Jaipur                |
+| RG20      | North  | NCR         | Delhi          | New Delhi             |
+| RG21      | East   | South WB    | West Bengal    | Kolkata               |
+| RG22      | East   | North WB    | West Bengal    | Siliguri              |

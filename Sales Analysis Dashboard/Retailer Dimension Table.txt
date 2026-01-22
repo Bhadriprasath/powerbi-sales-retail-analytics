@@ -1,0 +1,64 @@
+Retailer Dimension Table:
+
+| Retailer_ID | Retailer_Name                | Onboard_Date | State          | Region | Sub_Region  |
+| ----------- | ---------------------------- | ------------ | -------------- | ------ | ----------- |
+| R001        | Amardeep Cloth Merchants     | 2019-04-15   | Tamil Nadu     | South  | South TN    |
+| R002        | Sri Ram Fabrics              | 2020-06-10   | Tamil Nadu     | South  | North TN    |
+| R003        | Sri Kamatchi Amman Tex       | 2018-11-20   | Tamil Nadu     | South  | West TN     |
+| R004        | Jothi Radhakrishna Textiles  | 2021-01-05   | Andhra Pradesh | South  | Coastal AP  |
+| R005        | Vijaya Lakshmi Textiles      | 2019-09-18   | Karnataka      | South  | South KA    |
+| R006        | Devta Silks                  | 2020-02-25   | Karnataka      | South  | North KA    |
+| R007        | Jugal Cloth Store            | 2017-07-12   | Maharashtra    | West   | West MH     |
+| R008        | Ganga-Bhuvana Silks          | 2018-12-03   | Telangana      | South  | Central TS  |
+| R009        | Sri Lakshmi Tex              | 2021-03-22   | Tamil Nadu     | South  | East TN     |
+| R010        | Sri Kumaran Textiles         | 2019-08-14   | Kerala         | South  | Central KL  |
+| R011        | Shree Balaji Fabrics         | 2020-11-09   | Gujarat        | West   | North GJ    |
+| R012        | Mahaveer Cloth House         | 2018-05-27   | Rajasthan      | North  | West RJ     |
+| R013        | New India Textiles           | 2021-06-16   | Delhi          | North  | NCR         |
+| R014        | Rani Saree Centre            | 2019-10-30   | West Bengal    | East   | South WB    |
+| R015        | Siva Sakthi Textiles         | 2020-01-19   | Tamil Nadu     | South  | Central TN  |
+| R016        | Annapoorna Textiles          | 2018-08-11   | Tamil Nadu     | South  | South TN    |
+| R017        | Kaveri Fabrics               | 2021-09-05   | Karnataka      | South  | East KA     |
+| R018        | Sri Venkateswara Cloth Store | 2019-02-18   | Andhra Pradesh | South  | Rayalaseema |
+| R019        | Lakshmi Narayana Textiles    | 2020-07-21   | Andhra Pradesh | South  | West AP     |
+| R020        | Golden Loom Traders          | 2017-11-29   | Maharashtra    | West   | Central MH  |
+| R021        | Eastern Silk House           | 2021-04-12   | West Bengal    | East   | North WB    |
+| R022        | Vaishnavi Fabrics            | 2020-12-03   | Telangana      | South  | South TS    |
+| R023        | Udayam Cloth Mart            | 2019-06-27   | Tamil Nadu     | South  | North TN    |
+| R024        | Rajdhani Textile Traders     | 2018-03-09   | Delhi          | North  | NCR         |
+| R025        | Marudhar Textiles            | 2021-10-14   | Rajasthan      | North  | East RJ     |
+
+
+
+
+Updated retailer dimension table:
+
+| Retailer_ID | Retailer_Name                | Onboard_Date | Region_ID |
+| ----------- | ---------------------------- | ------------ | --------- |
+| R001        | Amardeep Cloth Merchants     | 2019-04-15   | RG01      |
+| R002        | Sri Ram Fabrics              | 2020-06-10   | RG02      |
+| R003        | Sri Kamatchi Amman Tex       | 2018-11-20   | RG03      |
+| R004        | Jothi Radhakrishna Textiles  | 2021-01-05   | RG06      |
+| R005        | Vijaya Lakshmi Textiles      | 2019-09-18   | RG09      |
+| R006        | Devta Silks                  | 2020-02-25   | RG10      |
+| R007        | Jugal Cloth Store            | 2017-07-12   | RG12      |
+| R008        | Ganga-Bhuvana Silks          | 2018-12-03   | RG14      |
+| R009        | Sri Lakshmi Tex              | 2021-03-22   | RG04      |
+| R010        | Sri Kumaran Textiles         | 2019-08-14   | RG16      |
+| R011        | Shree Balaji Fabrics         | 2020-11-09   | RG17      |
+| R012        | Mahaveer Cloth House         | 2018-05-27   | RG18      |
+| R013        | New India Textiles           | 2021-06-16   | RG20      |
+| R014        | Rani Saree Centre            | 2019-10-30   | RG21      |
+| R015        | Siva Sakthi Textiles         | 2020-01-19   | RG05      |
+| R016        | Annapoorna Textiles          | 2018-08-11   | RG01      |
+| R017        | Kaveri Fabrics               | 2021-09-05   | RG11      |
+| R018        | Sri Venkateswara Cloth Store | 2019-02-18   | RG07      |
+| R019        | Lakshmi Narayana Textiles    | 2020-07-21   | RG08      |
+| R020        | Golden Loom Traders          | 2017-11-29   | RG13      |
+| R021        | Eastern Silk House           | 2021-04-12   | RG22      |
+| R022        | Vaishnavi Fabrics            | 2020-12-03   | RG15      |
+| R023        | Udayam Cloth Mart            | 2019-06-27   | RG02      |
+| R024        | Rajdhani Textile Traders     | 2018-03-09   | RG20      |
+| R025        | Marudhar Textiles            | 2021-10-14   | RG19      |
+
+

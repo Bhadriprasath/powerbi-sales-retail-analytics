@@ -1,0 +1,24 @@
+product dimension table:
+
+| Product_ID | Product_Name           | Category      | Sub_Category | Material_Type | Unit_Price (₹) |
+| ---------- | ---------------------- | ------------- | ------------ | ------------- | -------------- |
+| P001       | Cotton Dhoti           | Ethnic Wear   | Dhoti        | Cotton        | 420            |
+| P002       | Silk Dhoti             | Ethnic Wear   | Dhoti        | Silk          | 850            |
+| P003       | Bordered Dhoti         | Ethnic Wear   | Dhoti        | Cotton        | 480            |
+| P004       | Cotton Lungi           | Ethnic Wear   | Lungi        | Cotton        | 380            |
+| P005       | Printed Lungi          | Ethnic Wear   | Lungi        | Cotton        | 420            |
+| P006       | Checked Lungi          | Ethnic Wear   | Lungi        | Cotton        | 400            |
+| P007       | Bath Towel             | Home Textiles | Towel        | Cotton        | 320            |
+| P008       | Hand Towel             | Home Textiles | Towel        | Cotton        | 180            |
+| P009       | Terry Towel            | Home Textiles | Towel        | Terry Cotton  | 450            |
+| P010       | Cotton Napkin          | Home Textiles | Napkin       | Cotton        | 90             |
+| P011       | Dining Napkin          | Home Textiles | Napkin       | Cotton        | 110            |
+| P012       | Kitchen Napkin         | Home Textiles | Napkin       | Cotton        | 80             |
+| P013       | Cotton Saree           | Women Wear    | Saree        | Cotton        | 750            |
+| P014       | Silk Saree             | Women Wear    | Saree        | Silk          | 2,200          |
+| P015       | Designer Saree         | Women Wear    | Saree        | Silk Blend    | 1,650          |
+| P016       | Blouse Material        | Women Wear    | Blouse       | Cotton        | 280            |
+| P017       | Cotton Shirting Fabric | Men Wear      | Shirting     | Cotton        | 520            |
+| P018       | Poly Cotton Shirting   | Men Wear      | Shirting     | Poly Cotton   | 480            |
+| P019       | Formal Shirt Fabric    | Men Wear      | Shirting     | Cotton        | 650            |
+| P020       | Casual Shirt Fabric    | Men Wear      | Shirting     | Cotton        | 560            |
